@@ -670,6 +670,7 @@
   text-align: center;
   padding-top: 30px;
   color: #012970;
+  background:#ccc;
 }
 
 .footer .credits {
@@ -677,4 +678,5 @@
   text-align: center;
   font-size: 13px;
   color: #012970;
+  background: #ccc;
 }
