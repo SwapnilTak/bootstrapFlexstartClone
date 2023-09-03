@@ -619,7 +619,7 @@
 }
 
 .footer .footer-top {
-  background: white url(https://bootstrapmade.com/demo/templates/FlexStart/assets/img/footer-bg.png) no-repeat right top;
+  background:url(./assets/img/footer-bg.png) no-repeat center;
   background-size: contain;
   border-top: 1px solid #e1ecff;
   border-bottom: 1px solid #e1ecff;
@@ -666,6 +666,7 @@
 }
 
 .footer .copyright {
+  background:url(./assets/img/footer-bg.png) no-repeat center;
   text-align: center;
   padding-top: 30px;
   color: #012970;
